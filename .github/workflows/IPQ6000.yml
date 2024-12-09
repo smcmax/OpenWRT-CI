@@ -7,7 +7,7 @@ on:
 
 env:
   REPO_URL: https://github.com/laipeng668/immortalwrt
-  REPO_BRANCH: master
+  REPO_BRANCH: openwrt-24.10
   CONFIG_FILE: .config
   CLASH_KERNEL: amd64
   CACHE_TOOLCHAIN: true
